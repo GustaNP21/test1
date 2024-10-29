@@ -1,0 +1,28 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+ 
+    float: right;
+    width: 250px;
+    height: 250px;
+
+
+}
+
+
+
+body div:nth-of-type(1){
+    background-color: lightblue;
+}
+body div:nth-of-type(2){
+    background-color: lightpink;
+}
+
+div > h1 {
+
+    color: red;
+}
